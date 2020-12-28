@@ -1,0 +1,7 @@
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.13\bin\Debug\Snippet4.13.exe.config
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.13\bin\Debug\Snippet4.13.exe
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.13\bin\Debug\Snippet4.13.pdb
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.13\obj\Debug\Snippet4.13.csprojAssemblyReference.cache
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.13\obj\Debug\Snippet4.13.csproj.CoreCompileInputs.cache
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.13\obj\Debug\Snippet4.13.exe
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.13\obj\Debug\Snippet4.13.pdb

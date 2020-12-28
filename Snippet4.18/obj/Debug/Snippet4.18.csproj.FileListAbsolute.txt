@@ -1,0 +1,7 @@
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.18\bin\Debug\Snippet4.18.exe.config
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.18\bin\Debug\Snippet4.18.exe
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.18\bin\Debug\Snippet4.18.pdb
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.18\obj\Debug\Snippet4.18.csprojAssemblyReference.cache
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.18\obj\Debug\Snippet4.18.csproj.CoreCompileInputs.cache
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.18\obj\Debug\Snippet4.18.exe
+C:\Users\Son\source\repos\CsharpLAB-2\Snippet4.18\obj\Debug\Snippet4.18.pdb
