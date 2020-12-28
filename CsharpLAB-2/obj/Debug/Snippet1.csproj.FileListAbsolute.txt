@@ -1,0 +1,7 @@
+C:\Users\Son\source\repos\CsharpLAB-2\CsharpLAB-2\bin\Debug\CsharpLAB-2.exe.config
+C:\Users\Son\source\repos\CsharpLAB-2\CsharpLAB-2\bin\Debug\CsharpLAB-2.exe
+C:\Users\Son\source\repos\CsharpLAB-2\CsharpLAB-2\bin\Debug\CsharpLAB-2.pdb
+C:\Users\Son\source\repos\CsharpLAB-2\CsharpLAB-2\obj\Debug\Snippet1.csprojAssemblyReference.cache
+C:\Users\Son\source\repos\CsharpLAB-2\CsharpLAB-2\obj\Debug\Snippet1.csproj.CoreCompileInputs.cache
+C:\Users\Son\source\repos\CsharpLAB-2\CsharpLAB-2\obj\Debug\CsharpLAB-2.exe
+C:\Users\Son\source\repos\CsharpLAB-2\CsharpLAB-2\obj\Debug\CsharpLAB-2.pdb
